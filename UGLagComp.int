@@ -1,0 +1,6 @@
+[Public]
+; LagComp.int - Package definition file for lag compensation mod for Unreal Gold
+; This file must be placed in the System directory alongside UGLagComp.u
+
+; Object definitions for the lag compensation package
+Object=(Name=UGLagComp.TraceMutator,Class=Class,MetaClass=Engine.Mutator,Description="Replaces weapons with lag compensated ones")
