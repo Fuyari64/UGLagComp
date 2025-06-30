@@ -26,3 +26,8 @@ Connect with your client:
 To simulate lag you can use a tool like [Clumsy](https://jagt.github.io/clumsy/):
 - Filter: `udp and udp.DstPort == 7777`
 - Lag -> outbound only
+
+## Knowledge
+This is an interesting thesis about UnrealScript:
+
+[UnrealScript Language Syntax](https://www.pucrs.br/facin-prov/wp-content/uploads/sites/19/2016/03/tr027.pdf)
